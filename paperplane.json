@@ -11,8 +11,7 @@
   "directory": "chars/char0",
   "image": "Covers/char0.png",
   "pmx": "吾妻1.3.pmx",
-  "base": "https://carlutic.github.io/paperplane_19/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_19/"
  },
  {
   "id": 190198,
@@ -26,8 +25,7 @@
   "directory": "chars/char1",
   "image": "Covers/char1.png",
   "pmx": "Yuki_BaseBody_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_19/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_19/"
  },
  {
   "id": 190199,
@@ -41,8 +39,7 @@
   "directory": "chars/char21",
   "image": "Covers/char21.png",
   "pmx": "Columbina.pmx",
-  "base": "https://carlutic.github.io/paperplane_19/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_19/"
  },
  {
   "id": 190200,
@@ -56,8 +53,7 @@
   "directory": "chars/char31",
   "image": "Covers/char31.png",
   "pmx": "Gura_0.9_Hi.pmx",
-  "base": "https://carlutic.github.io/paperplane_19/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_19/"
  },
  {
   "id": 190201,
@@ -71,8 +67,7 @@
   "directory": "chars/char4",
   "image": "Covers/char4.png",
   "pmx": "Mika_BaseBody_Mark2_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_19/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_19/"
  },
  {
   "id": 190202,
@@ -86,8 +81,7 @@
   "directory": "chars/char5",
   "image": "Covers/char5.png",
   "pmx": "圣诞礼物-长离 ver1.21.pmx",
-  "base": "https://carlutic.github.io/paperplane_19/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_19/"
  },
  {
   "id": 190203,
@@ -101,8 +95,7 @@
   "directory": "chars/char6",
   "image": "Covers/char6.png",
   "pmx": "坎特蕾拉.pmx",
-  "base": "https://carlutic.github.io/paperplane_19/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_19/"
  },
  {
   "id": 190204,
@@ -116,8 +109,7 @@
   "directory": "chars/char7",
   "image": "Covers/char7.png",
   "pmx": "Candace(Azusa89MOD)1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_19/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_19/"
  },
  {
   "id": 190205,
@@ -131,8 +123,7 @@
   "directory": "chars/char8",
   "image": "Covers/char8.png",
   "pmx": "埃吉尔1.1.pmx",
-  "base": "https://carlutic.github.io/paperplane_19/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_19/"
  },
  {
   "id": 190206,
@@ -146,8 +137,7 @@
   "directory": "chars/char92",
   "image": "Covers/char92.png",
   "pmx": "埃吉尔1.3.pmx",
-  "base": "https://carlutic.github.io/paperplane_19/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_19/"
  },
  {
   "id": 190207,
@@ -161,7 +151,6 @@
   "directory": "chars/char10",
   "image": "Covers/char10.png",
   "pmx": "夜兰皮肤.pmx",
-  "base": "https://carlutic.github.io/paperplane_19/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_19/"
  }
 ]
